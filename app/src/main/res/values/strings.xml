@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">laba3_2</string>
+    <string name="txt_btn_change" />
+    <string name="txt_act2" />
+    <string name="txt_plainText">Введите текст</string>
+    <string name="txt_main" />
+    <string name="save">Перенести текст выше</string>
+    <string name="save2">Перенести текст выше ещё раз</string>
+</resources>
